@@ -12,9 +12,9 @@ func Hello(name string) string {
 }
 
 // Doesnot have functional overloading
-func typeof(a int) string { return "INT"}
-func typeof(a float32) string { return "FLOAT32"}
-func typeof(a float64) string { return "FLOAT64"}
+// func typeof(a int) string { return "INT"}
+// func typeof(a float32) string { return "FLOAT32"}
+// func typeof(a float64) string { return "FLOAT64"}
 
 
 func main() {
